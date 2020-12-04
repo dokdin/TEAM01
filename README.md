@@ -22,3 +22,11 @@
   - 매출이중간인상권.ipynb
   - 매출이낮은상권.ipynb
   
+### Modeling
+- 상권 별 최종선정된 독립변수들을 이용하여 기계학습
+  - cluster.ipynb 
+  - gridsearch.ipynb
+
+### PPTX
+  - 체출한 PPTX파일
+    - 편의점생존률예측.pptx
